@@ -5,12 +5,6 @@ html {
   scroll-behavior: smooth;
 }
 
-/*подгоняем ширину под макет, ради пиксель перфекта + уши на всем что шире*/
-.page {
-	max-width: 1440px;
-	margin: 0 auto;
-}
-
 .page__link {
 	text-decoration: underline;
 	font-size: 18px;
