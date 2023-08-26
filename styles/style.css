@@ -116,7 +116,7 @@ html {
 	gap: 78px;
 	padding-bottom: 49px;
 	z-index: 1;
-	overflow-x: hidden;
+	max-width: 1000px;
 }
 
 .cover__description-text {
