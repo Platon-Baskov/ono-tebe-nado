@@ -27,19 +27,18 @@ html {
 	display: grid;
 	box-sizing: border-box;
 	grid-template-columns: repeat(3, 1fr);
-	padding: 92px 50px;
+	padding: 94px 50px;
 	align-items: center;
 }
 
 .header__menu {
 	display: flex;
-	max-width: 388px;
 }
 
 .header__links-list {
 	display: flex;
 	list-style-type: circle;
-	gap: 32px;
+	gap: 34px;
 }
 
 .header__link {
@@ -102,6 +101,7 @@ html {
 
 .aligned-text_right {
 	text-align: right;
+	top: 4px;
 }
 
 .aligned-letter {
@@ -161,7 +161,7 @@ html {
 }
 
 .lots {
-	padding: 197px 50px 181px;
+	padding: 180px 50px 181px;
 
 }
 
@@ -227,6 +227,7 @@ html {
 	font-size: 22px;
 	font-weight: bold;
 	text-decoration: underline;
+	text-transform: uppercase;
 	z-index: 1;
 }
 
@@ -240,7 +241,7 @@ html {
 	display: grid;
 	grid-template-columns: 430px 1fr;
 	gap: 25px;
-	padding: 0 50px 180px;
+	padding: 0 50px;
 	justify-items: center;
 }
 
@@ -269,6 +270,7 @@ html {
 	font-size: 40px;
 	font-weight: bold;
 	padding-bottom: 75px;
+	text-transform: uppercase;
 }
 
 .about__text {
