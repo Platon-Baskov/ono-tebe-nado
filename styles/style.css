@@ -10,7 +10,7 @@
   display: grid;
   box-sizing: border-box;
   grid-template-columns: repeat(3, 1fr);
-  padding: 93px 50px 78px;
+  padding: 92px 50px 92px;
   align-items: center;
 }
 
@@ -57,7 +57,7 @@
 
 .header__logo-image {
   width: 148px;
-  max-height: 105px;
+  max-height: 109px;
 }
 
 .header__address {
@@ -160,7 +160,7 @@
 }
 
 .lots {
-  padding: 196px 50px 181px;
+  padding: 180px 50px 181px;
 }
 
 .lots__heading {
